@@ -1,0 +1,25 @@
+#container{
+    display: grid;
+    grid-template-columns: auto auto;
+    row-gap: 1px;
+    /* margin: 10px; */
+    background-color: rgb(255, 0, 157);
+
+}
+h2{
+    color: rgb(0, 255, 149);
+}
+#sec{
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#myform{
+    padding-top: 50px;
+    
+}
+input{
+    font-size: large;
+    text-align: center;
+    /* width:70px; */
+}
